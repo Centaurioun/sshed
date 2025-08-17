@@ -13,6 +13,6 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/urfave/cli v1.22.5
-	golang.org/x/sys v0.0.0-20210225134936-a50acf3fe073 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 )
